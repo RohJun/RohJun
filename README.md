@@ -8,6 +8,10 @@
   
   유창한 영어 실력을 보유하고있어 오류,원서 등을 쉽게 이해할 수 있는 개발자
   
+  현재 Salesforce Developer!
+  Apex, LWC, Aura Compoenents Developer
+  Marketing Cloud, Sales Cloud
+  
 
 
 -CONTACT & BLOG       
